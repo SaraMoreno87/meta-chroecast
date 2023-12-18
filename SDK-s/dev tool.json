@@ -1,0 +1,20 @@
+{
+  "cookbookID": "cookbookLOUD",
+  "ID": "LOUDGetCharacter123125",
+  "name": "LOUD-Get-Character-Recipe",
+  "description": "Creates a basic character in LOUD",
+  "version": "v0.0.1",
+  "coinInputs": [],
+  "itemInputs": [],
+  "entries": {
+    "coinOutputs": [],
+    "itemOutputs": [
+      {
+
+      "Description": "0.1.0|description of a recipe aaaaa",
+      "BlockInterval": 0,
+      "ExtraInfo": "",
+      "CoinInputs": [
+        {
+
+        }}}}}}
